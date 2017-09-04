@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Date;
 
 /**
- * Rest API for managing organizations
+ * Rest API for managing organization
  * Created by Kithmal on 9/4/17.
  */
 @RequestMapping(WSPath.ORGANIZATION)
