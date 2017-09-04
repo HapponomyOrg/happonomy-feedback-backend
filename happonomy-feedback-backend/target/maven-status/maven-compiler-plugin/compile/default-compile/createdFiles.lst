@@ -1,0 +1,7 @@
+com/happonomy/controller/OrganizationMgt.class
+com/happonomy/dto/OrganizationRequest.class
+com/happonomy/model/Organization.class
+com/happonomy/MainApp.class
+com/happonomy/common/WSPath.class
+com/happonomy/common/enums/Status.class
+com/happonomy/repository/OrganizationRepository.class

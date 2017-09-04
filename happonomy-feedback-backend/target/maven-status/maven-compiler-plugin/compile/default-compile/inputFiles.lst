@@ -1,0 +1,7 @@
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/model/Organization.java
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/common/WSPath.java
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/common/enums/Status.java
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/repository/OrganizationRepository.java
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/controller/OrganizationMgt.java
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/dto/OrganizationRequest.java
+/Users/Kithmal/Git/Happonomy/happonomy-feedback-backend/src/main/java/com/happonomy/MainApp.java
