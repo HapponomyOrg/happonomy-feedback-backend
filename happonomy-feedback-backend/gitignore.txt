@@ -15,6 +15,7 @@
 # Maven
 log/
 target/
+*/target/**
 
 # NetBeans specific #
 nbproject/private/
